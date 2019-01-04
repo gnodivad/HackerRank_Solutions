@@ -15,3 +15,4 @@
 | Basic Select |    [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)    |    Easy    |   10   |   [Solution](SQL/Basic%20Select/japanese-cities-attributes.sql)   |
 | Basic Select |         [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)          |    Easy    |   10   |      [Solution](SQL/Basic%20Select/japanese-cities-name.sql)      |
 | Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/) |    Easy    |   15   | [Solution](SQL/Basic%20Select/weather-observation-station-1/.sql) |
+| Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/) |    Easy    |   15   | [Solution](SQL/Basic%20Select/weather-observation-station-3/.sql) |
