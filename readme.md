@@ -23,3 +23,4 @@
 | Basic Select |  [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/)  |    Easy    |   15   | [Solution](SQL/Basic%20Select/weather-observation-station-8.sql)  |
 | Basic Select |  [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/)  |    Easy    |   10   | [Solution](SQL/Basic%20Select/weather-observation-station-9.sql)  |
 | Basic Select | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/) |    Easy    |   15   | [Solution](SQL/Basic%20Select/weather-observation-station-10.sql) |
+| Basic Select | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/) |    Easy    |   15   | [Solution](SQL/Basic%20Select/weather-observation-station-11.sql) |
