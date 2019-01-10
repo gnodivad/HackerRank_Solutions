@@ -27,3 +27,4 @@
 | Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/) |    Easy    |   15   | [Solution](SQL/Basic%20Select/weather-observation-station-12.sql) |
 | Basic Select |            [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/)            |    Easy    |   15   |       [Solution](SQL/Basic%20Select/more-than-75-marks.sql)       |
 | Basic Select |               [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/)                |    Easy    |   10   |       [Solution](SQL/Basic%20Select/name-of-employees.sql)        |
+| Basic Select |             [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/)             |    Easy    |   10   |      [Solution](SQL/Basic%20Select/salary-of-employees.sql)       |
