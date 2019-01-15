@@ -35,3 +35,4 @@
 |  Basic Select   |               [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/)                |    Easy    |   10   |       [Solution](SQL/Basic%20Select/name-of-employees.sql)        |
 |  Basic Select   |             [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/)             |    Easy    |   10   |      [Solution](SQL/Basic%20Select/salary-of-employees.sql)       |
 | Advanced Select |            [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/)             |    Easy    |   20   |    [Solution](SQL/Advanced%20Select/what-type-of-triangle.sql)    |
+| Advanced Select |                       [The PADS](https://www.hackerrank.com/challenges/the-pads/)                       |   Medium   |   30   |          [Solution](SQL/Advanced%20Select/the-pads.sql)           |
