@@ -37,3 +37,4 @@
 | Advanced Select |            [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/)             |    Easy    |   20   |    [Solution](SQL/Advanced%20Select/what-type-of-triangle.sql)    |
 | Advanced Select |                       [The PADS](https://www.hackerrank.com/challenges/the-pads/)                       |   Medium   |   30   |          [Solution](SQL/Advanced%20Select/the-pads.sql)           |
 | Advanced Select |                    [Occupations](https://www.hackerrank.com/challenges/occupations/)                    |   Medium   |   30   |         [Solution](SQL/Advanced%20Select/occupations.sql)         |
+| Advanced Select |            [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/)             |   Medium   |   30   |    [Solution](SQL/Advanced%20Select/binary-search-tree-1.sql)     |
