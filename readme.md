@@ -6,9 +6,9 @@
 
 # 30 Days of Code
 
-| Day |                              Challenge                               | Difficulty | Points | Solution                                                                                                                                                                             |
-| :-: | :------------------------------------------------------------------: | :--------: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world) |    Easy    |   30   | <ul ><li>[Solution.py](30%20Days%20Of%20Code/Day%2000%20-%20Hello,%20World/day-00.py)</li><li>[Solution.js](30%20Days%20Of%20Code/Day%2000%20-%20Hello,%20World/day-00.py)</li></ul> |
+| Day |                              Challenge                               | Difficulty | Points | Solution                                                                                       |
+| :-: | :------------------------------------------------------------------: | :--------: | :----: | :--------------------------------------------------------------------------------------------- |
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world) |    Easy    |   30   | <ul><li>[Solution.js](30%20Days%20Of%20Code/Day%2000%20-%20Hello,%20World/day-00.js)</li></ul> |
 
 # SQL
 
