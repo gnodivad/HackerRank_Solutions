@@ -40,3 +40,4 @@
 | Advanced Select |             [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)             |   Medium   |   30   |        [Solution](SQL/Advanced%20Select/binary-search-tree-1.sql)        |
 | Advanced Select |                   [New Companies](https://www.hackerrank.com/challenges/the-company)                    |   Medium   |   30   |            [Solution](SQL/Advanced%20Select/the-company.sql)             |
 |   Aggregation   | [Revising Aggregations](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) |    Easy    |   10   | [Solution](SQL/Aggregation/revising-aggregations-the-count-function.sql) |
+|   Aggregation   |        [Revising Aggregations](https://www.hackerrank.com/challenges/revising-aggregations-sum)         |    Easy    |   10   |        [Solution](SQL/Aggregation/revising-aggregations-sum.sql)         |
