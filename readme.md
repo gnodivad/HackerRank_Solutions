@@ -9,6 +9,7 @@
 | Day |                              Challenge                               | Difficulty | Points |                                                                                                 Solution                                                                                                  |
 | :-: | :------------------------------------------------------------------: | :--------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world) |    Easy    |   30   | [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day00%20-%20Hello,%20World/Day00.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day00%20-%20Hello,%20World/Day00.java) |
+|  1  |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)   |    Easy    |   30   |   [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day01%20-%20Data%20Types/Day01.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day01%20-%20Data%20Types/Day01.java)   |
 
 # SQL
 
