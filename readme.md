@@ -13,6 +13,7 @@
 |  2  |                  [Operators](https://www.hackerrank.com/challenges/30-operators)                   |    Easy    |   30   |                             [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day02%20-%20Operators/Day02.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day02%20-%20Operators/Day02.java)                             |
 |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) |    Easy    |   30   | [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day03%20-%20Intro%20to%20Conditional%20Statements/Day03.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day03%20-%20Intro%20to%20Conditional%20Statements/Day03.java) |
 |  4  |          [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)          |    Easy    |   30   |                [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day04%20-%20Class%20vs.%20Instance/Day04.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day04%20-%20Class%20vs.%20Instance/Day04.java)                |
+|  5  |                      [Loops](https://www.hackerrank.com/challenges/30-loops)                       |    Easy    |   30   |                                 [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day05%20-%20Loops/Day05.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day05%20-%20Loops/Day05.java)                                 |
 
 # SQL
 
