@@ -1,0 +1,4 @@
+SELECT SUM(city.POPULATION)
+FROM CITY AS city
+LEFT JOIN COUNTRY AS country ON city.COUNTRYCODE = country.CODE
+WHERE country.CONTINENT = "Asia";
