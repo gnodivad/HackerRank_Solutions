@@ -16,6 +16,12 @@
 |  5  |                      [Loops](https://www.hackerrank.com/challenges/30-loops)                       |    Easy    |   30   |                                 [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day05%20-%20Loops/Day05.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day05%20-%20Loops/Day05.java)                                 |
 |  6  |                [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)                |    Easy    |   30   |                         [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day06%20-%20Lets%20Review/Day06.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day06%20-%20Lets%20Review/Day06.java)                         |
 
+# Java
+
+|  Subdomain   |                                     Challenge                                     | Difficulty | Points |                                   Solution                                    |
+| :----------: | :-------------------------------------------------------------------------------: | :--------: | :----: | :---------------------------------------------------------------------------: |
+| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |    Easy    |   3    | [<img height=30 src="logo/java.svg">](Java/Introduction/welcome-to-java.java) |
+
 # SQL
 
 |      Subdomain      |                                                      Challenge                                                       | Difficulty | Points |                                                Solution                                                |
