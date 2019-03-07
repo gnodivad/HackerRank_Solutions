@@ -22,7 +22,6 @@
 | :----------: | :----------------------------------------------------------------------------------------------: | :--------: | :----: | :-----------------------------------------------------------------------------------: |
 | Introduction |        [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)         |    Easy    |   3    |     [<img height=30 src="logo/java.svg">](Java/Introduction/welcome-to-java.java)     |
 | Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) |    Easy    |   5    | [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-and-stdout-1.java) |
-| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) |    Easy    |   5    | [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-and-stdout-1.java) |
 | Introduction |            [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)            |    Easy    |   10   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-if-else.java)       |
 
 # SQL
