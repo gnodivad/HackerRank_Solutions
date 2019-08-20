@@ -16,6 +16,12 @@
 |  5  |                      [Loops](https://www.hackerrank.com/challenges/30-loops)                       |    Easy    |   30   |                                 [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day05%20-%20Loops/Day05.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day05%20-%20Loops/Day05.java)                                 |
 |  6  |                [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)                |    Easy    |   30   |                         [<img height=30 src="logo/javascript.svg">](30%20Days%20Of%20Code/Day06%20-%20Lets%20Review/Day06.js) [<img height=30 src="logo/java.svg">](30%20Days%20Of%20Code/Day06%20-%20Lets%20Review/Day06.java)                         |
 
+# Interview Preparation Kit
+
+|     Subdomain      |                              Challenge                               | Difficulty | Points |                                                   Solution                                                   |
+| :----------------: | :------------------------------------------------------------------: | :--------: | :----: | :----------------------------------------------------------------------------------------------------------: |
+| Warm-up Challenges | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/sock-merchant.java) |  |
+
 # Java
 
 |  Subdomain   |                                            Challenge                                             | Difficulty | Points |                                       Solution                                        |
