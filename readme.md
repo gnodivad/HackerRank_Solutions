@@ -18,13 +18,14 @@
 
 # Interview Preparation Kit
 
-|     Subdomain      |                                      Challenge                                       | Difficulty | Points |                                                       Solution                                                       |
-| :----------------: | :----------------------------------------------------------------------------------: | :--------: | :----: | :------------------------------------------------------------------------------------------------------------------: |
-| Warm-up Challenges |         [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)         |    Easy    |   10   |     [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/sock-merchant.java)     |  |
-| Warm-up Challenges |      [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)      |    Easy    |   15   |   [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/counting-valleys.java)    |  |
-| Warm-up Challenges | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) |    Easy    |   20   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/jumping-on-the-clouds.java) |  |
-| Warm-up Challenges |       [Repeated String](https://www.hackerrank.com/challenges/repeated-string)       |    Easy    |   20   |    [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/repeated-string.java)    |  |
-|       Arrays       |           [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)            |    Easy    |   15   |              [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/2d-array.java)               |  |
+|     Subdomain      |                                        Challenge                                        | Difficulty | Points |                                                       Solution                                                       |
+| :----------------: | :-------------------------------------------------------------------------------------: | :--------: | :----: | :------------------------------------------------------------------------------------------------------------------: |
+| Warm-up Challenges |          [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)           |    Easy    |   10   |     [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/sock-merchant.java)     |
+| Warm-up Challenges |       [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)        |    Easy    |   15   |   [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/counting-valleys.java)    |
+| Warm-up Challenges |  [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)   |    Easy    |   20   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/jumping-on-the-clouds.java) |
+| Warm-up Challenges |        [Repeated String](https://www.hackerrank.com/challenges/repeated-string)         |    Easy    |   20   |    [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Warm-up%20Challenges/repeated-string.java)    |
+|       Arrays       |             [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)             |    Easy    |   15   |              [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/2d-array.java)               |
+|       Arrays       | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |    Easy    |   20   |      [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/ctci-array-left-rotation.java)       |
 
 # Java
 
