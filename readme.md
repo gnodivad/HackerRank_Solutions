@@ -27,6 +27,7 @@
 |       Arrays       |             [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)             |    Easy    |   15   |              [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/2d-array.java)               |
 |       Arrays       | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |    Easy    |   20   |      [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/ctci-array-left-rotation.java)       |
 |       Arrays       |         [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos)          |   Medium   |   40   |           [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/new-year-chaos.java)            |
+|       Arrays       |        [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2)         |   Medium   |   40   |           [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/Arrays/minimum-swaps-2.java)           |
 
 # Java
 
