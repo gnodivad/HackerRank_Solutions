@@ -39,6 +39,7 @@
 | Introduction |   [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)    |    Easy    |   10   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-stdout.java)    |
 | Introduction |            [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)            |    Easy    |   10   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops-i.java)       |
 | Introduction |  [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)  |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Java/Introduction/java-output-formatting.java)  |
+| Introduction |            [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)             |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops.java)        |
 
 # SQL
 
