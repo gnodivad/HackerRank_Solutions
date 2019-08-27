@@ -32,6 +32,7 @@
 | String Manipulation |      [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)      |    Easy    |   25   |      [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/String%20Manipulation/making-anagrams.java)      |
 | String Manipulation |      [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)      |    Easy    |   20   |  [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/String%20Manipulation/alternating-characters.java)   |
 | String Manipulation | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) |   Medium   |   35   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/String%20Manipulation/sherlock-and-valid-string.java) |
+| String Manipulation |      [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again)      |   Medium   |   40   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/String%20Manipulation/special-palindrome-again.java)  |
 
 # Java
 
