@@ -46,6 +46,7 @@
 | Introduction |  [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)  |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Java/Introduction/java-output-formatting.java)  |
 | Introduction |            [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)             |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops.java)        |
 | Introduction |          [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)          |    Easy    |   10   |     [<img height=30 src="logo/java.svg">](Java/Introduction/java-datatypes.java)      |
+| Introduction |        [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)        |    Easy    |   10   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-end-of-file.java)     |
 
 # SQL
 
