@@ -34,6 +34,12 @@
 | String Manipulation | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) |   Medium   |   35   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/String%20Manipulation/sherlock-and-valid-string.java) |
 | String Manipulation |      [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again)      |   Medium   |   40   | [<img height=30 src="logo/java.svg">](Interview%20Preparation%20Kit/String%20Manipulation/special-palindrome-again.java)  |
 
+# Problem Solving
+
+| Subdomain |                                      Challenge                                       | Difficulty | Points |                                          Solution                                          |
+| :-------: | :----------------------------------------------------------------------------------: | :--------: | :----: | :----------------------------------------------------------------------------------------: |
+|  Warmup   | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Problem%20Solving/Warmup/birthday-cake-candles.java) |
+
 # Java
 
 |  Subdomain   |                                                  Challenge                                                   | Difficulty | Points |                                          Solution                                           |
