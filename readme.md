@@ -54,6 +54,7 @@
 | Introduction |                [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                |    Easy    |   10   |        [<img height=30 src="logo/java.svg">](Java/Introduction/java-datatypes.java)         |
 | Introduction |              [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)              |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-end-of-file.java)        |
 | Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Java/Introduction/java-static-initializer-block.java) |
+| Introduction |            [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)            |    Easy    |   10   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-int-to-string.java)       |
 
 # SQL
 
