@@ -56,6 +56,7 @@
 | Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Java/Introduction/java-static-initializer-block.java) |
 | Introduction |            [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)            |    Easy    |   10   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-int-to-string.java)       |
 | Introduction |            [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)            |    Easy    |   15   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-date-and-time.java)       |
+| Introduction |      [Java Currency Formatter](https://www.hackerrank.com/challenges//java-currency-formatter/problem)       |    Easy    |   15   |   [<img height=30 src="logo/java.svg">](Java/Introduction//java-currency-formatter.java)    |
 
 # SQL
 
