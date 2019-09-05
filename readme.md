@@ -42,22 +42,22 @@
 
 # Java
 
-|  Subdomain   |                                                  Challenge                                                   | Difficulty | Points |                                          Solution                                           |
-| :----------: | :----------------------------------------------------------------------------------------------------------: | :--------: | :----: | :-----------------------------------------------------------------------------------------: |
-| Introduction |              [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)               |    Easy    |   3    |        [<img height=30 src="logo/java.svg">](Java/Introduction/welcome-to-java.java)        |
-| Introduction |       [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)       |    Easy    |   5    |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-and-stdout-1.java)    |
-| Introduction |                  [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                  |    Easy    |   10   |         [<img height=30 src="logo/java.svg">](Java/Introduction/java-if-else.java)          |
-| Introduction |         [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)          |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-stdout.java)       |
-| Introduction |                  [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                  |    Easy    |   10   |         [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops-i.java)          |
-| Introduction |        [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)        |    Easy    |   10   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-output-formatting.java)     |
-| Introduction |                  [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                   |    Easy    |   10   |          [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops.java)           |
-| Introduction |                [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                |    Easy    |   10   |        [<img height=30 src="logo/java.svg">](Java/Introduction/java-datatypes.java)         |
-| Introduction |              [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)              |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-end-of-file.java)        |
-| Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Java/Introduction/java-static-initializer-block.java) |
-| Introduction |            [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)            |    Easy    |   10   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-int-to-string.java)       |
-| Introduction |            [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)            |    Easy    |   15   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-date-and-time.java)       |
-| Introduction |       [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)       |    Easy    |   15   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-currency-formatter.java)    |
-|   Strings    |     [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)     |    Easy    |   5    |     [<img height=30 src="logo/java.svg">](Java/Strings/java-strings-introduction.java)      |
+|  Subdomain   |                                              Challenge                                               | Difficulty | Points |                                          Solution                                           |
+| :----------: | :--------------------------------------------------------------------------------------------------: | :--------: | :----: | :-----------------------------------------------------------------------------------------: |
+| Introduction |              [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)               |    Easy    |   3    |        [<img height=30 src="logo/java.svg">](Java/Introduction/welcome-to-java.java)        |
+| Introduction |       [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)       |    Easy    |   5    |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-and-stdout-1.java)    |
+| Introduction |                  [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                  |    Easy    |   10   |         [<img height=30 src="logo/java.svg">](Java/Introduction/java-if-else.java)          |
+| Introduction |         [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)          |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-stdin-stdout.java)       |
+| Introduction |                  [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)                  |    Easy    |   10   |         [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops-i.java)          |
+| Introduction |        [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)        |    Easy    |   10   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-output-formatting.java)     |
+| Introduction |                  [Java Loops II](https://www.hackerrank.com/challenges/java-loops)                   |    Easy    |   10   |          [<img height=30 src="logo/java.svg">](Java/Introduction/java-loops.java)           |
+| Introduction |                [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)                |    Easy    |   10   |        [<img height=30 src="logo/java.svg">](Java/Introduction/java-datatypes.java)         |
+| Introduction |              [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)              |    Easy    |   10   |       [<img height=30 src="logo/java.svg">](Java/Introduction/java-end-of-file.java)        |
+| Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block) |    Easy    |   10   | [<img height=30 src="logo/java.svg">](Java/Introduction/java-static-initializer-block.java) |
+| Introduction |            [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)            |    Easy    |   10   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-int-to-string.java)       |
+| Introduction |            [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)            |    Easy    |   15   |      [<img height=30 src="logo/java.svg">](Java/Introduction/java-date-and-time.java)       |
+| Introduction |       [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)       |    Easy    |   15   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-currency-formatter.java)    |
+|   Strings    |     [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)     |    Easy    |   5    |     [<img height=30 src="logo/java.svg">](Java/Strings/java-strings-introduction.java)      |
 
 # SQL
 
