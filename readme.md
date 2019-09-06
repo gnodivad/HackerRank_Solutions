@@ -59,6 +59,7 @@
 | Introduction |       [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)       |    Easy    |   15   |    [<img height=30 src="logo/java.svg">](Java/Introduction/java-currency-formatter.java)    |
 |   Strings    |     [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)     |    Easy    |   5    |     [<img height=30 src="logo/java.svg">](Java/Strings/java-strings-introduction.java)      |
 |   Strings    |                [Java Substring](https://www.hackerrank.com/challenges/java-substring)                |    Easy    |   5    |           [<img height=30 src="logo/java.svg">](Java/Strings/java-substring.java)           |
+|   Strings    |       [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)        |    Easy    |   5    |        [<img height=30 src="logo/java.svg">](Java/Strings/java-string-compare.java)         |
 
 # SQL
 
