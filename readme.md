@@ -61,6 +61,7 @@
 |   Strings    |                [Java Substring](https://www.hackerrank.com/challenges/java-substring)                |    Easy    |   5    |           [<img height=30 src="logo/java.svg">](Java/Strings/java-substring.java)           |
 |   Strings    |       [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)        |    Easy    |   10   |        [<img height=30 src="logo/java.svg">](Java/Strings/java-string-compare.java)         |
 |   Strings    |       [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-reverse)        |    Easy    |   10   |        [<img height=30 src="logo/java.svg">](Java/Strings/java-string-reverse.java)         |
+|   Strings    |                 [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)                 |    Easy    |   10   |           [<img height=30 src="logo/java.svg">](Java/Strings/java-anagrams.java)            |
 
 # SQL
 
