@@ -64,6 +64,7 @@
 |   Strings    |                 [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)                 |    Easy    |   10   |           [<img height=30 src="logo/java.svg">](Java/Strings/java-anagrams.java)            |
 |   Strings    |            [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)            |    Easy    |   15   |         [<img height=30 src="logo/java.svg">](Java/Strings/java-string-tokens.java)         |
 |   Strings    |        [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)        |    Easy    |   20   |       [<img height=30 src="logo/java.svg">](Java/Strings/pattern-syntax-checker.java)       |
+|   Strings    |                    [Java Regex](https://www.hackerrank.com/challenges/java-regex)                    |   Medium   |   25   |             [<img height=30 src="logo/java.svg">](Java/Strings/java-regex.java)             |
 
 # SQL
 
