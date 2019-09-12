@@ -65,6 +65,7 @@
 |   Strings    |            [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)            |    Easy    |   15   |         [<img height=30 src="logo/java.svg">](Java/Strings/java-string-tokens.java)         |
 |   Strings    |        [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)        |    Easy    |   20   |       [<img height=30 src="logo/java.svg">](Java/Strings/pattern-syntax-checker.java)       |
 |   Strings    |                    [Java Regex](https://www.hackerrank.com/challenges/java-regex)                    |   Medium   |   25   |             [<img height=30 src="logo/java.svg">](Java/Strings/java-regex.java)             |
+|  BigNumber   |           [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)           |    Easy    |   20   |       [<img height=30 src="logo/java.svg">](Java/BigNumber/java-primality-test.java)        |
 
 # SQL
 
