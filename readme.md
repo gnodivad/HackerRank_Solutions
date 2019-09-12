@@ -129,3 +129,9 @@
 |    Advanced Join    |               [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql)               |    Hard    |   50   |        [<img height=40 src="logo/mysql.svg">](SQL/Advanced%20Join/15-days-of-learning-sql.sql)         |
 | Alternative Queries |                   [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)                   |    Easy    |   25   |       [<img height=40 src="logo/mysql.svg">](SQL/Alternative%20Queries/draw-the-triangle-1.sql)        |
 | Alternative Queries |                   [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                   |    Easy    |   25   |       [<img height=40 src="logo/mysql.svg">](SQL/Alternative%20Queries/draw-the-triangle-2.sql)        |
+
+# Regex
+
+|  Subdomain   |                                         Challenge                                          | Difficulty | Points |                                        Solution                                         |
+| :----------: | :----------------------------------------------------------------------------------------: | :--------: | :----: | :-------------------------------------------------------------------------------------: |
+| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) |    Easy    |   5    | [<img height=40 src="logo/java.svg">](Regex/Introduction/matching-specific-string.java) |
