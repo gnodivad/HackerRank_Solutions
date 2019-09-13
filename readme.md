@@ -132,6 +132,7 @@
 
 # Regex
 
-|  Subdomain   |                                         Challenge                                          | Difficulty | Points |                                        Solution                                         |
-| :----------: | :----------------------------------------------------------------------------------------: | :--------: | :----: | :-------------------------------------------------------------------------------------: |
-| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) |    Easy    |   5    | [<img height=40 src="logo/java.svg">](Regex/Introduction/matching-specific-string.java) |
+|  Subdomain   |                                                Challenge                                                | Difficulty | Points |                                           Solution                                            |
+| :----------: | :-----------------------------------------------------------------------------------------------------: | :--------: | :----: | :-------------------------------------------------------------------------------------------: |
+| Introduction |       [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string)        |    Easy    |   5    |    [<img height=40 src="logo/java.svg">](Regex/Introduction/matching-specific-string.java)    |
+| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line) |    Easy    |   5    | [<img height=40 src="logo/java.svg">](Regex/Introduction/matching-anything-but-new-line.java) |
