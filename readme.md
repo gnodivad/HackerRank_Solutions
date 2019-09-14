@@ -135,7 +135,8 @@
 
 # Regex
 
-|  Subdomain   |                                                Challenge                                                | Difficulty | Points |                                           Solution                                            |
-| :----------: | :-----------------------------------------------------------------------------------------------------: | :--------: | :----: | :-------------------------------------------------------------------------------------------: |
-| Introduction |       [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string)        |    Easy    |   5    |    [<img height=15 src="logo/java.svg">](Regex/Introduction/matching-specific-string.java)    |
-| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line) |    Easy    |   5    | [<img height=15 src="logo/java.svg">](Regex/Introduction/matching-anything-but-new-line.java) |
+|  Subdomain   |                                                      Challenge                                                      | Difficulty | Points |                                              Solution                                              |
+| :----------: | :-----------------------------------------------------------------------------------------------------------------: | :--------: | :----: | :------------------------------------------------------------------------------------------------: |
+| Introduction |             [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string)              |    Easy    |   5    |      [<img height=15 src="logo/java.svg">](Regex/Introduction/matching-specific-string.java)       |
+| Introduction |       [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line)       |    Easy    |   5    |   [<img height=15 src="logo/java.svg">](Regex/Introduction/matching-anything-but-new-line.java)    |
+| Introduction | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character) |    Easy    |   5    | [<img height=15 src="logo/java.svg">](Regex/Introduction/matching-digits-non-digit-character.java) |
