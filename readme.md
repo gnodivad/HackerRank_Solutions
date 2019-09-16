@@ -70,6 +70,7 @@
 |    BigNumber    |               [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)               |   Medium   |   20   |          [<img height=15 src="logo/java.svg">](Java/BigNumber/java-bigdecimal.java)           |
 | Data Structures |          [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)           |    Easy    |   5    | [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-1d-array-introduction.java) |
 | Data Structures |                 [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)                 |    Easy    |   10   |       [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-2d-array.java)        |
+| Data Structures |            [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)             |    Easy    |   10   |   [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-negative-subarray.java)   |
 
 # SQL
 
