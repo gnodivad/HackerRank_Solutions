@@ -75,6 +75,7 @@
 | Data Structures |                     [Java List](https://www.hackerrank.com/challenges/java-list)                     |    Easy    |   15   |         [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-list.java)          |
 | Data Structures |                     [Java Map](https://www.hackerrank.com/challenges/phone-book)                     |    Easy    |   10   |         [<img height=15 src="logo/java.svg">](Java/Data%20Structures/phone-book.java)         |
 | Data Structures |                  [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)                  |    Easy    |   10   |        [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-hashset.java)        |
+| Data Structures |                    [Java Stack](https://www.hackerrank.com/challenges/java-stack)                    |   Medium   |   20   |         [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-stack.java)         |
 
 # SQL
 
