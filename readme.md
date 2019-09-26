@@ -78,6 +78,7 @@
 | Data Structures |                  [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)                  |    Easy    |   10   |        [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-hashset.java)        |
 | Data Structures |                    [Java Stack](https://www.hackerrank.com/challenges/java-stack)                    |   Medium   |   20   |         [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-stack.java)         |
 | Data Structures |                 [Java Generics](https://www.hackerrank.com/challenges/java-generics)                 |    Easy    |   15   |       [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-generics.java)        |
+| Data Structures |                     [Java Sort](https://www.hackerrank.com/challenges/java-sort)                     |    Easy    |   10   |         [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-sort.java)          |
 
 # SQL
 
