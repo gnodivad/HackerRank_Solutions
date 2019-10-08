@@ -82,6 +82,7 @@
 | Data Structures |               [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)               |   Medium   |   10   |      [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-comparator.java)       |
 | Data Structures |                     [Java Sort](https://www.hackerrank.com/challenges/java-sort)                     |    Easy    |   10   |         [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-sort.java)          |
 | Data Structures |                   [Java Deque](https://www.hackerrank.com/challenges/java-dequeue)                   |   Medium   |   20   |        [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-dequeue.java)        |
+| Data Structures |                   [Java BitSet](https://www.hackerrank.com/challenges/java-bitset)                   |    Easy    |   20   |        [<img height=15 src="logo/java.svg">](Java/Data%20Structures/java-bitset.java)         |
 
 # SQL
 
