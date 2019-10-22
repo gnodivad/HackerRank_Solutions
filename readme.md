@@ -86,6 +86,7 @@
 | Object Oriented Programming |            [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1)            |    Easy    |   5    | [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-inheritance-1.java)  |
 | Object Oriented Programming |           [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2)            |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-inheritance-2.java)  |
 | Object Oriented Programming |           [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)           |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-abstract-class.java) |
+| Object Oriented Programming |                [Java Interface](https://www.hackerrank.com/challenges/java-interface)                |    Easy    |   10   |   [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-interface.java)    |
 
 # SQL
 
