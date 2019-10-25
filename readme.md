@@ -89,6 +89,7 @@
 | Object Oriented Programming |                  [Java Interface](https://www.hackerrank.com/challenges/java-interface)                  |    Easy    |   10   |             [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-interface.java)             |
 | Object Oriented Programming |          [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding)          |    Easy    |   10   |         [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-method-overriding.java)         |
 | Object Oriented Programming | [Java Method Overriding 2](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-method-overriding-2-super-keyword.java) |
+| Object Oriented Programming |         [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword)         |    Easy    |   10   |        [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-instanceof-keyword.java)         |
 
 # SQL
 
