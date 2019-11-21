@@ -94,6 +94,7 @@
 | Object Oriented Programming |                      [Java Iterator](https://www.hackerrank.com/challenges/java-iterator)                      |    Easy    |   15   |             [<img height=15 src="logo/java.svg">](Java/Object%20Oriented%20Programming/java-iterator.java)              |
 |     Exception Handling      | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) |    Easy    |   10   |         [<img height=15 src="logo/java.svg">](Java/Exception%20Handling/java-exception-handling-try-catch.java)         |
 |     Exception Handling      |            [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)            |    Easy    |   15   |              [<img height=15 src="logo/java.svg">](Java/Exception%20Handling/java-exception-handling.java)              |
+|          Advanced           |        [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)         |    Easy    |   15   |              [<img height=15 src="logo/java.svg">](Java/Exception%20Handling/simple-addition-varargs.java)              |
 
 # SQL
 
