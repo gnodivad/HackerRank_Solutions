@@ -97,6 +97,7 @@
 |     Exception Handling      |            [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)            |    Easy    |   15   |              [<img height=15 src="logo/java.svg">](Java/Exception%20Handling/java-exception-handling.java)              |
 |          Advanced           |        [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)         |    Easy    |   15   |                    [<img height=15 src="logo/java.svg">](Java/Advanced/simple-addition-varargs.java)                    |
 |          Advanced           |        [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes)        |    Easy    |   15   |                  [<img height=15 src="logo/java.svg">](Java/Advanced/java-reflection-attributes.java)                   |
+|          Advanced           |                   [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)                   |    Easy    |   15   |                         [<img height=15 src="logo/java.svg">](Java/Advanced/java-factory.java)                          |
 
 # SQL
 
