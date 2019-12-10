@@ -98,6 +98,7 @@
 |          Advanced           |        [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)         |    Easy    |   15   |                    [<img height=15 src="logo/java.svg">](Java/Advanced/simple-addition-varargs.java)                    |
 |          Advanced           |        [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes)        |    Easy    |   15   |                  [<img height=15 src="logo/java.svg">](Java/Advanced/java-reflection-attributes.java)                   |
 |          Advanced           |                   [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)                   |    Easy    |   15   |                         [<img height=15 src="logo/java.svg">](Java/Advanced/java-factory.java)                          |
+|          Advanced           |                 [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)                 |    Easy    |   15   |                        [<img height=15 src="logo/java.svg">](Java/Advanced/java-singleton.java)                         |
 
 # SQL
 
