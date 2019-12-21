@@ -39,6 +39,7 @@
 | Subdomain |                                      Challenge                                       | Difficulty | Points |                                          Solution                                          |
 |:---------:|:------------------------------------------------------------------------------------:|:----------:|:------:|:------------------------------------------------------------------------------------------:|
 |  Warmup   |        [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)        |    Easy    |   1    |    [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/solve-me-first.go)     |
+|  Warmup   |      [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)      |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/simple-array-sum.go)    |
 |  Warmup   | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/birthday-cake-candles.java) |
 
 # Java
