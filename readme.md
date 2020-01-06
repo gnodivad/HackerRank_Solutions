@@ -43,6 +43,7 @@
 |  Warmup   |  [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)  |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/compare-the-triplets.go)  |
 |  Warmup   |        [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)        |    Easy    |   10   |    [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/a-very-big-sum.go)     |
 |  Warmup   |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)   |    Easy    |   10   |  [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/diagonal-difference.go)  |
+|  Warmup   |            [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)            |    Easy    |   10   |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/plus-minus.go)       |
 |  Warmup   | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/birthday-cake-candles.java) |
 
 # Java
