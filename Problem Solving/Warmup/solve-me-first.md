@@ -1,3 +1,8 @@
+# Solve Me First
+
+## golang
+
+```go
 package main
 
 import "fmt"
@@ -12,3 +17,4 @@ func main() {
 	res = solveMeFirst(a, b)
 	fmt.Println(res)
 }
+```
