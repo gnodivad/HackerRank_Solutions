@@ -39,7 +39,7 @@
 | Subdomain |                                      Challenge                                       | Difficulty | Points |                                          Solution                                          |
 |:---------:|:------------------------------------------------------------------------------------:|:----------:|:------:|:------------------------------------------------------------------------------------------:|
 |  Warmup   |        [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)        |    Easy    |   1    |    [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/solve-me-first.md)     |
-|  Warmup   |      [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)      |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/simple-array-sum.go)    |
+|  Warmup   |      [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)      |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/simple-array-sum.md)    |
 |  Warmup   |  [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)  |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/compare-the-triplets.go)  |
 |  Warmup   |        [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)        |    Easy    |   10   |    [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/a-very-big-sum.go)     |
 |  Warmup   |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)   |    Easy    |   10   |  [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/diagonal-difference.go)  |
