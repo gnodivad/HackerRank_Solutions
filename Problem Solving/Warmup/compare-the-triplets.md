@@ -1,3 +1,8 @@
+# Compare the Triplets
+
+## golang
+
+```golang
 package main
 
 import (
@@ -83,3 +88,4 @@ func checkError(err error) {
 		panic(err)
 	}
 }
+```
