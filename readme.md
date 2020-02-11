@@ -45,7 +45,7 @@
 |  Warmup   |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)   |    Easy    |   10   |  [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/diagonal-difference.md)  |
 |  Warmup   |            [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)            |    Easy    |   10   |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/plus-minus.md)       |
 |  Warmup   |             [Staircase](https://www.hackerrank.com/challenges/staircase)             |    Easy    |   10   |       [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/staircase.md)       |
-|  Warmup   |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)          |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/mini-max-sum.go)      |
+|  Warmup   |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)          |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/mini-max-sum.md)      |
 |  Warmup   | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/birthday-cake-candles.java) |
 |  Warmup   |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)       |    Easy    |   15   |    [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/time-conversion.java)    |
 
