@@ -1,3 +1,8 @@
+# Birthday Cake Candles
+
+## java
+
+```java
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -52,3 +57,4 @@ public class Solution {
         scanner.close();
     }
 }
+```
