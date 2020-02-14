@@ -3,7 +3,6 @@
 ## golang
 
 ```go
-
 package main
 
 import (

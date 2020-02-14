@@ -1,3 +1,8 @@
+# Time Conversion
+
+## golang
+
+```go
 package main
 
 import (
@@ -64,3 +69,4 @@ func checkError(err error) {
         panic(err)
     }
 }
+```
