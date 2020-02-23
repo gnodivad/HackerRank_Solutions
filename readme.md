@@ -36,20 +36,21 @@
 
 # Problem Solving
 
-|   Subdomain    |                                      Challenge                                       | Difficulty | Points |                                         Solution                                          |
-|:--------------:|:------------------------------------------------------------------------------------:|:----------:|:------:|:-----------------------------------------------------------------------------------------:|
-|     Warmup     |        [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)        |    Easy    |   1    |    [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/solve-me-first.md)    |
-|     Warmup     |      [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)      |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/simple-array-sum.md)   |
-|     Warmup     |  [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)  |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/compare-the-triplets.md) |
-|     Warmup     |        [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)        |    Easy    |   10   |    [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/a-very-big-sum.md)    |
-|     Warmup     |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)   |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/diagonal-difference.md)  |
-|     Warmup     |            [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)            |    Easy    |   10   |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/plus-minus.md)      |
-|     Warmup     |             [Staircase](https://www.hackerrank.com/challenges/staircase)             |    Easy    |   10   |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/staircase.md)       |
-|     Warmup     |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)          |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/mini-max-sum.md)     |
-|     Warmup     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    Easy    |   10   | [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/birthday-cake-candles.md)  |
-|     Warmup     |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)       |    Easy    |   15   |    [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/time-conversion.md)     |
-|     Warmup     |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)       |    Easy    |   15   |    [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/time-conversion.md)     |
-| Implementation |           [Time Conversion](https://www.hackerrank.com/challenges/grading)           |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/grading.md)    |
+|   Subdomain    |                                      Challenge                                       | Difficulty | Points |                                           Solution                                            |
+|:--------------:|:------------------------------------------------------------------------------------:|:----------:|:------:|:---------------------------------------------------------------------------------------------:|
+|     Warmup     |        [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)        |    Easy    |   1    |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/solve-me-first.md)      |
+|     Warmup     |      [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)      |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/simple-array-sum.md)     |
+|     Warmup     |  [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)  |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/compare-the-triplets.md)   |
+|     Warmup     |        [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)        |    Easy    |   10   |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/a-very-big-sum.md)      |
+|     Warmup     |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)   |    Easy    |   10   |   [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/diagonal-difference.md)    |
+|     Warmup     |            [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)            |    Easy    |   10   |        [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/plus-minus.md)        |
+|     Warmup     |             [Staircase](https://www.hackerrank.com/challenges/staircase)             |    Easy    |   10   |        [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/staircase.md)         |
+|     Warmup     |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)          |    Easy    |   10   |       [<img height=15 src="logo/golang.svg">](Problem%20Solving/Warmup/mini-max-sum.md)       |
+|     Warmup     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) |    Easy    |   10   |   [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/birthday-cake-candles.md)    |
+|     Warmup     |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)       |    Easy    |   15   |      [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/time-conversion.md)       |
+|     Warmup     |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)       |    Easy    |   15   |      [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/time-conversion.md)       |
+| Implementation |          [Grading Students](https://www.hackerrank.com/challenges/grading)           |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/grading.md)      |
+| Implementation |      [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)      |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/apple-and-orange.md) |
 
 # Java
 
