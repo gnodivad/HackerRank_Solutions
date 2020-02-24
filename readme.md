@@ -51,6 +51,7 @@
 |     Warmup     |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)       |    Easy    |   15   |      [<img height=15 src="logo/java.svg">](Problem%20Solving/Warmup/time-conversion.md)       |
 | Implementation |          [Grading Students](https://www.hackerrank.com/challenges/grading)           |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/grading.md)      |
 | Implementation |      [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)      |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/apple-and-orange.md) |
+| Implementation |              [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)              |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/kangaroo.md)     |
 
 # Java
 
