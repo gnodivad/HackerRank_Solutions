@@ -53,6 +53,7 @@
 | Implementation |              [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)              |    Easy    |   10   |      [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/kangaroo.md)       |
 | Implementation |      [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)      |    Easy    |   10   |  [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/between-two-sets.md)   |
 | Implementation |   [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)   |    Easy    |   10   | [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/divisible-sum-pairs.md) |
+| Implementation |           [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit)           |    Easy    |   10   |     [<img height=15 src="logo/golang.svg">](Problem%20Solving/Implementation/bon-appetit.md)     |
 
 # Java
 
